@@ -16,7 +16,7 @@ Evaluation and observability platform for LLM agents with reproducible benchmark
 Security-focused MCP server with workspace isolation, approval-gated execution, hardened filesystem/Git tools, and structured audit logging.
 
 ### 🧠 [MiniGPT](https://github.com/zhihaochen67/mini-gpt)
-97M-parameter decoder-only Transformer implemented from scratch with PyTorch and trained on TinyStories.
+97.5M-parameter decoder-only Transformer implemented from scratch with PyTorch and trained on TinyStories.
 
 ### 🖥️ [Harness Core](https://github.com/zhihaochen67/harness-core)
 AI-native desktop command center integrating workspace-aware AI, agent activity, terminal output, system tooling, and desktop orchestration.
@@ -24,7 +24,7 @@ AI-native desktop command center integrating workspace-aware AI, agent activity,
 ## Tech Stack
 
 **Languages:** Python · JavaScript · SQL  
-**AI / ML:** PyTorch · Transformer Architectures · LLM Agents · Agent Evaluation  
+**AI / ML:** PyTorch · Transformers · LLM Agents · Agent Evaluation  
 **Agent Systems:** MCP · Tool Calling · LLM-as-a-Judge · Observability  
 **Engineering:** Git · SQLite · Electron · CLI · Testing
 
