@@ -4,6 +4,8 @@ Computer Science undergraduate at **NJUPT**, interested in **LLM Agents, AI Syst
 
 Research intern at **IAII**, working in an embodied AI research group.
 
+🌐 [Personal Website](https://zhihaochen67.github.io)
+
 ## Featured Projects
 
 ### 🩺 [Repo Doctor](https://github.com/zhihaochen67/repo-doctor)
