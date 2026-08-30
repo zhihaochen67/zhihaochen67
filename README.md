@@ -2,7 +2,7 @@
 
 Computer Science undergraduate at **NJUPT**, interested in **LLM Agents, AI Systems, and Deep Learning**.
 
-Currently a research intern at **IAII**, working in an embodied AI research group. I enjoy building practical AI systems around agent execution, evaluation, tool use, and language models.
+Research intern at **IAII**, working in an embodied AI research group.
 
 ## Featured Projects
 
@@ -27,12 +27,6 @@ AI-native desktop command center integrating workspace-aware AI, agent activity,
 **AI / ML:** PyTorch · Transformer Architectures · LLM Agents · Agent Evaluation  
 **Agent Systems:** MCP · Tool Calling · LLM-as-a-Judge · Observability  
 **Engineering:** Git · SQLite · Electron · CLI · Testing
-
-## Current Focus
-
-- Reliable and evaluable LLM agents
-- LLM fundamentals and inference systems
-- Algorithms and systems fundamentals
 
 ---
 
