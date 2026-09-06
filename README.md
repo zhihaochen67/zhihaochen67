@@ -21,7 +21,7 @@ Reproducible benchmark for BM25, dense retrieval, hybrid fusion, neural rerankin
 Security-focused MCP server with workspace isolation, approval-gated execution, hardened filesystem/Git tools, and structured audit logging.
 
 ### 🤖 [SocialNav-Bench](https://github.com/zhihaochen67/socialnav-bench)
-Simulation benchmark for socially-aware robot navigation, including path planning, dynamic pedestrian interaction, social constraints, and reproducible evaluation.
+Reproducible benchmark for socially-aware robot navigation with predictive and space-time planning, robust continuous execution, multi-pedestrian evaluation, local safety shielding, and systematic failure analysis.
 
 ### 🧠 [MiniGPT](https://github.com/zhihaochen67/mini-gpt)
 97.5M-parameter decoder-only Transformer implemented from scratch with PyTorch and trained on TinyStories.
