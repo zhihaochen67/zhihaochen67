@@ -11,14 +11,17 @@ Research intern at **IAII**, working in an embodied AI research group.
 ### 🩺 [Repo Doctor](https://github.com/zhihaochen67/repo-doctor)
 AI-powered repository diagnosis and repair agent with deterministic scanning, constrained patch generation, test-driven verification, local rollback, and optional MCP-based tool execution.
 
+### 🔎 [HybridSearch-Bench](https://github.com/zhihaochen67/hybridsearch-bench)
+Reproducible benchmark for BM25, dense retrieval, hybrid fusion, neural reranking, and FAISS ANN tradeoffs, with retrieval quality and latency evaluation.
+
 ### 🔬 [AgentLab](https://github.com/zhihaochen67/AgentLab)
 Evaluation and observability platform for LLM agents with reproducible benchmarks, structured traces, repeated trials, experiment comparison, and LLM-as-a-Judge.
 
-### 🔎 [HybridSearch-Bench](https://github.com/zhihaochen67/hybridsearch-bench)
-Reproducible benchmark for BM25, dense retrieval, hybrid fusion, neural reranking, and FAISS ANN tradeoffs with retrieval-quality and latency evaluation.
-
 ### 🔧 [MCP ToolHub](https://github.com/zhihaochen67/mcp-toolhub)
-Security-focused MCP server with workspace isolation, approval-gated execution, hardened filesystem/Git tools, and structured audit logging.
+Security-focused MCP server with approval-gated execution, workspace isolation, hardened filesystem/Git tools, and structured audit logging.
+
+### 🦾 [Embodied Manipulation Agent](https://github.com/zhihaochen67/embodied-manipulation-agent)
+Deterministic PyBullet manipulation agent with RGB-D grounding, closed-loop verification, structured diagnostics, and bounded recovery.
 
 ### 🤖 [SocialNav-Bench](https://github.com/zhihaochen67/socialnav-bench)
 Reproducible benchmark for socially-aware robot navigation with predictive and space-time planning, robust continuous execution, multi-pedestrian evaluation, local safety shielding, and systematic failure analysis.
@@ -35,7 +38,7 @@ AI-native desktop command center integrating workspace-aware AI, agent activity,
 **AI / ML:** PyTorch · Transformers · Embeddings · Deep Learning  
 **Search / Retrieval:** BM25 · Dense Retrieval · Hybrid Search · Reranking · FAISS  
 **Agent Systems:** MCP · Tool Calling · LLM-as-a-Judge · Agent Evaluation · Observability  
-**Embodied AI:** Social Navigation · Path Planning · Simulation  
+**Embodied AI:** Social Navigation · Manipulation · PyBullet · Path Planning · Closed-loop Verification  
 **Engineering:** Git · SQLite · Electron · CLI · Testing
 
 ---
