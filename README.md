@@ -26,10 +26,11 @@ Deterministic **PyBullet pick-and-place agent** with RGB-D grounding, fresh visu
 ### 🤖 [SocialNav-Bench](https://github.com/zhihaochen67/socialnav-bench)
 Reproducible benchmark for socially-aware robot navigation in dynamic multi-pedestrian scenes. A predictive safety shield reduced collision rate from **18%→0% (N=3)**, **23%→1% (N=5)**, and **43%→7% (N=10)** in the frozen benchmark.
 
-## Other Projects
+### 🖥️ [Harness Core](https://github.com/zhihaochen67/harness-core)
+AI-native **Electron desktop command center** for workspace-aware AI development, agent activity, terminal output, GPU/WSL tooling, and DeepSeek Harness orchestration.
 
-- 🖥️ **[Harness Core](https://github.com/zhihaochen67/harness-core)** — AI-native **Electron desktop command center** for workspace-aware AI development, agent activity, terminal output, GPU/WSL tooling, and DeepSeek Harness orchestration.
-- 🧠 **[MiniGPT](https://github.com/zhihaochen67/mini-gpt)** — **97.54M-parameter decoder-only Transformer** implemented from scratch with PyTorch and trained on TinyStories; best held-out validation loss **1.2654**.
+### 🧠 [MiniGPT](https://github.com/zhihaochen67/mini-gpt)
+**97.54M-parameter decoder-only Transformer** implemented from scratch with PyTorch and trained on TinyStories; best held-out validation loss **1.2654**.
 
 [More repositories →](https://github.com/zhihaochen67?tab=repositories)
 
