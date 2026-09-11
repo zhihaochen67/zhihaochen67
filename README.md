@@ -9,22 +9,22 @@ Research Intern @ **IAII** — working on **embodied AI, social navigation, and 
 ## Selected Projects
 
 ### 🔎 [HybridSearch-Bench](https://github.com/zhihaochen67/hybridsearch-bench)
-Reproducible benchmark for **BM25, dense retrieval, hybrid fusion, neural reranking, and FAISS ANN**, with retrieval-quality and latency evaluation.
+End-to-end benchmark for **BM25, dense retrieval, hybrid fusion, neural reranking, and FAISS ANN**. On SciFact, hybrid retrieval + reranking reaches **0.6998 nDCG@10**, with explicit quality/latency trade-off analysis and cross-dataset validation on FiQA.
 
 ### 🔬 [AgentLab](https://github.com/zhihaochen67/AgentLab)
-Evaluation and observability platform for **LLM agents**, featuring reproducible benchmarks, structured traces, repeated trials, experiment comparison, and **LLM-as-a-Judge**.
+Evaluation and observability infrastructure for **LLM agents** with isolated workspaces, deterministic verification, structured traces, repeated trials, experiment comparison, SQLite persistence, and optional **LLM-as-a-Judge**.
 
 ### 🔧 [MCP ToolHub](https://github.com/zhihaochen67/mcp-toolhub)
-Security-focused **MCP server** with approval-gated execution, workspace isolation, hardened filesystem/Git tools, and structured audit logging.
+Security-focused **MCP execution gateway** exposing exactly **14 production tools**, with out-of-band human approval, immutable expiring single-use requests, workspace confinement, and structured audit traces.
 
 ### 🩺 [Repo Doctor](https://github.com/zhihaochen67/repo-doctor)
-AI-powered repository diagnosis and repair agent with deterministic scanning, constrained patch generation, test-driven verification, rollback, and optional MCP-based execution.
+Local-first repository diagnosis and AI repair agent with constrained patching, verification, rollback, and optional MCP execution. **v0.3.0: 227 tests passed, 5 skipped; self-scan 100/100.**
 
 ### 🦾 [Embodied Manipulation Agent](https://github.com/zhihaochen67/embodied-manipulation-agent)
-Deterministic **PyBullet manipulation agent** with RGB-D grounding, closed-loop verification, structured diagnostics, and bounded recovery.
+Deterministic **PyBullet pick-and-place agent** with RGB-D grounding, fresh visual verification, structured diagnosis, and one bounded recovery attempt. In the frozen perturbation benchmark, recovery achieved **96/100 grasp** and **100/100 placement** success.
 
 ### 🤖 [SocialNav-Bench](https://github.com/zhihaochen67/socialnav-bench)
-Reproducible benchmark for socially-aware robot navigation with predictive planning, robust continuous execution, multi-pedestrian evaluation, safety shielding, and failure analysis.
+Reproducible benchmark for socially-aware robot navigation in dynamic multi-pedestrian scenes. A predictive safety shield reduced collision rate from **18%→0% (N=3)**, **23%→1% (N=5)**, and **43%→7% (N=10)** in the frozen benchmark.
 
 [More projects →](https://github.com/zhihaochen67?tab=repositories)
 
