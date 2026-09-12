@@ -5,7 +5,7 @@ Computer Science undergraduate at **NJUPT**, building **LLM agents, retrieval/ev
 Research Intern @ **Institute of Industrial Artificial Intelligence, CAS (IAII)**  
 Working on **embodied AI, social navigation, and robotic manipulation**.
 
-🌐 [Personal Website](https://zhihaochen67.github.io)  
+🌐 [Personal Website](https://zhihaochen67.github.io) · 📄 [Resume](https://zhihaochen67.github.io/assets/resume/Zhihao-Chen-Resume.pdf)  
 🎯 **Open to 2027 AI/ML Engineering internships**
 
 ## Selected Projects
