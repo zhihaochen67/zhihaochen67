@@ -38,11 +38,10 @@ AI-native **Electron desktop command center** for workspace-aware AI development
 
 ## Tech Stack
 
-**Languages:** Python · JavaScript · SQL  
-**AI Systems:** PyTorch · Transformers · LLM Agents · MCP · Evaluation  
-**Retrieval:** BM25 · Dense Retrieval · Reranking · FAISS  
-**Embodied AI:** Manipulation · Social Navigation · PyBullet  
-**Engineering:** Git · SQLite · Electron · Testing
+**Languages:** Python · C++ (basic)<br>
+**AI / Agents:** PyTorch · LLM Agents · MCP · Agent Evaluation<br>
+**Engineering:** Linux · Git · pytest<br>
+**Robotics:** PyBullet · Social Navigation · Robotic Manipulation
 
 ---
 
